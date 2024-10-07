@@ -1,5 +1,7 @@
 <!------------------------Welcome to React---------------------------------------------------!>
 ***************react dev**************
+***************map function***********
+
 React is a JavaScript library for building user interfaces.
 React is used to build single-page applications.
 React allows us to create reusable UI components.
